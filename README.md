@@ -1,6 +1,6 @@
 # Relogio de Atmega328p
 
-            ## [    RTC DS3231    ->  ARDUINO UNO        ]
+## [    RTC DS3231    ->  ARDUINO UNO        ]
             -----------------------------------------
             SDA pin   -> Analógico 4 (SDA)
             SCL pin   -> Analógico 5 (SCL)
