@@ -1,7 +1,7 @@
-# Relogio de Atmega328p
+# Relógio de Atmega328p
 
 ## Ligações de hardware
-
+ -----------------------------------------
 #### [    RTC DS3231    ->  ARDUINO UNO        ]
  -----------------------------------------
             SDA pin   -> Analógico 4 (SDA)
