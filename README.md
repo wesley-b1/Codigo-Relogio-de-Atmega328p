@@ -1,12 +1,12 @@
 # Relogio de Atmega328p
 
 #### [    RTC DS3231    ->  ARDUINO UNO        ]
- -----------------------------------------
+
             SDA pin   -> Analógico 4 (SDA)
             SCL pin   -> Analógico 5 (SCL)
             VCC pin   -> 5V
             GND pin   -> GND
-            -----------------------------------------
+         
 #### [         74HC595   -> DISPLAY          ]
  -----------------------------------------
             pin 15 (Out0) está no PinA do DISPLAY
