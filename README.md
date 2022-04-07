@@ -1,5 +1,5 @@
 # Relogio de Atmega328p
--> ## Ligações de hardware
+->  Ligações de hardware
 
 #### [    RTC DS3231    ->  ARDUINO UNO        ]
  -----------------------------------------
